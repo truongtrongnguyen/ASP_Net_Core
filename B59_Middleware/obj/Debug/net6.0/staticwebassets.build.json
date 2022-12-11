@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xqKi4h8sfV1J3TBbH+JXzWuOVVWbaMst6svwrR8LVnc=",
+  "Source": "Middleware_B59",
+  "BasePath": "_content/Middleware_B59",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Middleware_B59\\wwwroot",
+      "Source": "Middleware_B59",
+      "ContentRoot": "D:\\Code_CShap\\ASP_Net_Core\\Middleware_B59\\wwwroot\\",
+      "BasePath": "_content/Middleware_B59",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Code_CShap\\ASP_Net_Core\\Middleware_B59\\wwwroot\\indext.html",
+      "SourceId": "Middleware_B59",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code_CShap\\ASP_Net_Core\\Middleware_B59\\wwwroot\\",
+      "BasePath": "_content/Middleware_B59",
+      "RelativePath": "indext.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\indext.html"
+    }
+  ]
+}
